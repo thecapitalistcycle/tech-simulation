@@ -40,6 +40,86 @@ Will also be needed for other aspects such as DITA XML related to [tech-indexing
 
 https://projects.eclipse.org
 
+I am assuming that Eclipse will be needed anyway for DITA with oXygen XML Editor plugin to Eclipse with XQDT adaptor for Xquery 3+ connecting to BaseX XML database.
+
+https://github.com/BaseXdb/basex/issues/1656
+
+This will require JDK and following from:
+
+https://www.eclipse.org/downloads/packages/
+
+Installer 2018-12 R
+
+https://www.eclipse.org/downloads/packages/release/2018-12/r/eclipse-ide-javascript-and-web-developers
+
+This includes mylyn:
+
+https://en.wikipedia.org/wiki/Mylyn
+
+https://projects.eclipse.org/projects/mylyn
+
+Mainly for task focused interface:
+
+https://en.wikipedia.org/wiki/Task-focused_interface
+
+https://wiki.eclipse.org/Mylyn/FAQ#Task-Focused_UI
+
+and ALM:
+
+https://en.wikipedia.org/wiki/Application_lifecycle_management
+
+Mylyn includes task focussed highlighting within model diagrams:
+
+https://projects.eclipse.org/projects/mylyn.context.mft
+
+Also includes documentation features:
+
+https://projects.eclipse.org/projects/mylyn.docs
+
+Which handles various markups including mediawiki and various outputs including DITA:
+
+https://en.wikipedia.org/wiki/Lightweight_markup_language
+
+Also including diagrams:
+
+https://fsteeg.wordpress.com/2010/02/07/diagrams-in-wiki-markup-with-mylyn-wikitext-dot-and-zest/
+
+(Above obsolete - find current for plsntuml, See also Xtext)
+
+Will need:
+
+https://idyll-lang.org
+
+The EMF may or may not be needed for DITA with BaseX and oXygen:
+
+https://www.eclipse.org/downloads/packages/release/2018-12/r/eclipse-modeling-tools
+
+But any the EMF and additional packages below will certainly be needed for more technical model development.
+
+Items below are for more sophisticated interactive modeling and simulation
+
+### Open Modelica
+
+was integrated with Eclipse EMF a decade ago:
+
+https://www.researchgate.net/publication/241204618_OpenModelica_Development_Environment_with_Eclipse_Integration_for_Browsing_Modeling_and_Debugging
+
+works with SD:
+
+https://openmodelica.org/images/M_images/Moses206/moses2016-03-RodrigoCastro-Overview-of-the-Modelica-based-System-Dynamics-Library.pdf
+
+used by Simantics SD:
+
+http://sysdyn.simantics.org
+
+### Computational Biology
+
+Major overlap with SD and ABM with vastly superior community of standards, tools and ontologies:
+
+http://co.mbine.org/standards
+
+Most of the tools and ontologies are likely to rely heavily on XML and work with Eclipse.
+
 ### Papyrus
 
 https://wiki.eclipse.org/Papyrus
@@ -51,6 +131,10 @@ https://wiki.eclipse.org/Papyrus/UserGuide/ModelExecution
 ### FMI FMUs for System Dynamics models
 
 https://en.wikipedia.org/wiki/Functional_Mock-up_Interface
+
+### AutomationML
+
+
 
 
 ## MMORGs
@@ -67,6 +151,6 @@ http://www.wiwi.uni-bielefeld.de/lehrbereiche/vwl/etace/Eurace_Unibi/
 
 http://www.flamegpu.com
 
-## Accounting System Dynamics
+## Accounting System Dynamics (Stock Flow Consistent modeling)
 
 http://muratopia.org/Yamaguchi/MacroBook.html
