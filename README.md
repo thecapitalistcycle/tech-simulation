@@ -23,13 +23,13 @@ A concluding chapter on "The Capitalist Cycle" was written by Pavel Maksakovsky 
 
 https://en.wikipedia.org/wiki/Pavel_Maksakovsky
 
-Books are not enough, but the revolution will not be televised. Deeper understanding and development requires a Massively Multiplayer Online Role-Playing Game.
+Books are not enough, but the revolution will not be televised. Deeper understanding and development requires a Massively Multiplayer Online Role-Playing Game (MMORPG).
 
 Implementation of that is expected to require the technologies listed below.
 
 ## Modeling and Simulation Tools
 
-Studying the chaotically evolving control system for the cyclical growth and development of a chaotically evolving social system involves combining technology from Cmputational Biology and Systems Engineering as well as Agent Based Computational Economics, Stock Flow Consistent Accounting System Dynamics and Business Processes. Will eventually involve MMPORGs for simulating crises and transition.
+Studying the chaotically evolving control system for the cyclical growth and development of a chaotically evolving social system involves combining technology from Computational Biology and Systems Engineering as well as Agent Based Computational Economics, Stock Flow Consistent Accounting System Dynamics and Business Processes. Will eventually involve MMORPGs for simulating crises and transition.
 
 Some tools include:
 
@@ -94,7 +94,7 @@ The EMF may or may not be needed for DITA with BaseX and oXygen:
 
 https://www.eclipse.org/downloads/packages/release/2018-12/r/eclipse-modeling-tools
 
-But any the EMF and additional packages below will certainly be needed for more technical model development.
+Anywau the EMF and additional packages below will certainly be needed for more technical model development.
 
 Items below are for more sophisticated interactive modeling and simulation
 
@@ -137,7 +137,7 @@ https://en.wikipedia.org/wiki/Functional_Mock-up_Interface
 
 
 
-## MMORGs
+## MMORPGs
 
 https://en.wikipedia.org/wiki/Massively_multiplayer_online_role-playing_game
 
