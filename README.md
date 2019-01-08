@@ -44,7 +44,9 @@ I am assuming that Eclipse will be needed anyway for DITA with oXygen XML Editor
 
 https://github.com/BaseXdb/basex/issues/1656
 
-This will require JDK and following from:
+This will require JDK (use latest from Open Oracle).
+
+and following from:
 
 https://www.eclipse.org/downloads/packages/
 
@@ -90,11 +92,22 @@ Will need:
 
 https://idyll-lang.org
 
+### Eclipse Modeling Framework (EMF)
+
 The EMF may or may not be needed for DITA with BaseX and oXygen:
 
 https://www.eclipse.org/downloads/packages/release/2018-12/r/eclipse-modeling-tools
 
-Anywau the EMF and additional packages below will certainly be needed for more technical model development.
+Anyway, the EMF and additional packages below will certainly be needed for more technical model development.
+
+"Ecore is the core (meta-)model at the heart of EMF. It allows expressing other models by leveraging its constructs. Ecore is also its own metamodel (i.e.: Ecore is defined in terms of itself)."
+
+"According to Ed Merks, EMF project lead, "Ecore is the defacto reference implementation of
+OMG's EMOF" (Essential Meta-Object Facility). Still according to Merks, EMOF was actually
+defined by OMG as a simplified version of the more comprehensive 'C'MOF by drawing on the
+experience of the successful simplification of Ecore's original implementation.[1]"
+
+For related tools see [philosophical tools]()
 
 Items below are for more sophisticated interactive modeling and simulation
 
