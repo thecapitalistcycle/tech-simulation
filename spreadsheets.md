@@ -4,8 +4,8 @@
 
 https://github.com/handsontable/handsontable
 
-Free Community Edition has open source MIT licence and could be sufficient when used together eith
-[D3.js](https://en.wikipedia.org/wiki/D3.js ), [ObservableHQ](https://beta.observablehq.com/open-source ), [Vega-lite](https://vega.github.io/vega-lite/ ) erc.
+Free Community Edition has open source MIT licence and could be sufficient when used together with
+[D3.js](https://en.wikipedia.org/wiki/D3.js ), [ObservableHQ](https://beta.observablehq.com/open-source ), [Vega-lite](https://vega.github.io/vega-lite/ ) etc.
 
 Some ["pro" features](https://handsontable.com/docs/6.2.2/tutorial-features.html ) for USD $590 may be desirable, 
 
