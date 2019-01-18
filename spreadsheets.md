@@ -1,6 +1,6 @@
 # Spreadsheets
 
-## Hashontable
+## Handsontable
 
 https://github.com/handsontable/handsontable
 
