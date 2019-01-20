@@ -1,5 +1,36 @@
 # Javascript
 
+## Ninja
+
+John Resig, Bear Bibeault, Josip Maras-Secrets of the JavaScript Ninja-Manning Publications (2016).pdf
+
+@book{book:2163090,
+   title =     {Secrets of the JavaScript Ninja},
+   author =    {John Resig, Bear Bibeault, Josip Maras},
+   publisher = {Manning Publications},
+   isbn =      {1617292850,9781617292859},
+   year =      {2016},
+   series =    {},
+   edition =   {2},
+   volume =    {},
+   url =       {http://gen.lib.rus.ec/book/index.php?md5=843bb62cd65a980ccfdb101808e17f48 }
+}
+
+Darren Jones-JavaScript Novice to Ninja-SitePoint (2017).pdf
+
+@book{book:2211362,
+   title =     {JavaScript Novice to Ninja},
+   author =    {Darren Jones},
+   publisher = {SitePoint},
+   isbn =      {978-0-9953827-7-0},
+   year =      {2017},
+   series =    {},
+   edition =   {2nd},
+   volume =    {},
+   url =       {http://gen.lib.rus.ec/book/index.php?md5=5a31f2f3306af165dd5ccaf898efc430 }
+}
+
+
 ## React.js
 
 @book{book:2289853,
