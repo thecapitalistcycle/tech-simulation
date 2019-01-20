@@ -159,6 +159,45 @@ Darren Jones-JavaScript Novice to Ninja-SitePoint (2017).pdf
 
 https://www.transcrypt.org/documentation
 
+https://www.transcrypt.org/docs/html/index.html
+
+https://www.transcrypt.org/docs/html/index.html
+
+https://stackoverflow.com/questions/30155551/python-in-browser-how-to-choose-between-brython-pypy-js-skulpt-and-transcrypt#answer-38564424
+
+https://wiki.python.org/moin/WebBrowserProgramming
+
+http://stromberg.dnsalias.org/~strombrg/pybrowser/python-browser.html
+
+https://www.infoq.com/articles/transcrypt-python-javascript-compiler
+
+https://archive.org/details/Linux-Journal-2017-05
+
+https://github.com/jashkenas/coffeescript/wiki/list-of-languages-that-compile-to-js
+
+https://webpack.js.org/concepts/
+
+https://medium.com/@martim00/making-a-webpack-python-loader-87215d72292e
+
+https://github.com/martim00/python-webpack-loader
+
+https://github.com/atsepkov/RapydScript
+
+Alex Martelli, Anna Ravenscroft, Steve Holden-Python in a Nutshell_ A Desktop Quick Reference-O’Reilly Media (2017).pdf
+
+@book{book:2162776,
+   title =     {Python in a Nutshell: A Desktop Quick Reference},
+   author =    {Alex Martelli, Anna Ravenscroft, Steve Holden},
+   publisher = {O’Reilly Media},
+   isbn =      {144939292X,9781449392925},
+   year =      {2017},
+   series =    {},
+   edition =   {3},
+   volume =    {},
+   url =       {http://gen.lib.rus.ec/book/index.php?md5=79bf433833ec537ba7594b43dc0b09cb }
+}
+
+
 ## Javascript - Python
 
 Kyran Dale-Data Visualization with Python and JavaScript_ Scrape, Clean, Explore & Transform Your Data-O’Reilly Media (2016).pdf 1edn 2nd pre-release
