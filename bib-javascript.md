@@ -12,6 +12,10 @@ https://www.w3schools.com/js/default.asp
 
 ## Other Tutorials
 
+Links to tutorials on tools etc
+
+https://www.fullstackpython.com/javascript.html
+
 https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript
 
 https://www.infoworld.com/article/3251506/it-careers/employers-want-javascript-but-developers-want-python.html
