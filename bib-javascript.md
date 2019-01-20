@@ -129,3 +129,36 @@ Darren Jones-JavaScript Novice to Ninja-SitePoint (2017).pdf
    url =       {http://gen.lib.rus.ec/book/index.php?md5=82116554f343012973ce9ba120a08fc0 }
 }
 
+
+
+# Javascript - Python
+
+Kyran Dale-Data Visualization with Python and JavaScript_ Scrape, Clean, Explore & Transform Your Data-O’Reilly Media (2016).pdf
+
+@book{book:1486346,
+   title =     {Data Visualization with Python and JavaScript: Scrape, Clean, Explore & Transform Your Data},
+   author =    {Kyran Dale},
+   publisher = {O’Reilly Media},
+   isbn =      {1491920513,9781491920510},
+   year =      {2016},
+   series =    {},
+   edition =   {1},
+   volume =    {},
+   url =       {http://gen.lib.rus.ec/book/index.php?md5=6589e6418efe8d2255d6dd6b4b375119 }
+}
+
+Harry J. W. Percival-Test-Driven Development with Python_ Obey the Testing Goat_ Using Django, Selenium, and JavaScript-O’Reilly Media (2017).pdf
+
+@book{book:2301268,
+   title =     {Test-Driven Development with Python: Obey the Testing Goat: Using Django, Selenium, and JavaScript},
+   author =    {Harry J. W. Percival},
+   publisher = {O’Reilly Media},
+   isbn =      {1491958707, 978-1491958704},
+   year =      {2017},
+   series =    {},
+   edition =   {2},
+   volume =    {},
+   url =       {http://gen.lib.rus.ec/book/index.php?md5=69b0cf8dc812fb9f31e83d41e3a463a5 }
+}
+
+
