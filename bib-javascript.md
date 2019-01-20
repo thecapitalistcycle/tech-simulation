@@ -151,9 +151,13 @@ Darren Jones-JavaScript Novice to Ninja-SitePoint (2017).pdf
 
 
 
-# Javascript - Python
+## Transcrypt
 
-Kyran Dale-Data Visualization with Python and JavaScript_ Scrape, Clean, Explore & Transform Your Data-O’Reilly Media (2016).pdf
+https://www.transcrypt.org/documentation
+
+## Javascript - Python
+
+Kyran Dale-Data Visualization with Python and JavaScript_ Scrape, Clean, Explore & Transform Your Data-O’Reilly Media (2016).pdf 1edn 2nd pre-release
 
 @book{book:1486346,
    title =     {Data Visualization with Python and JavaScript: Scrape, Clean, Explore & Transform Your Data},
@@ -165,6 +169,34 @@ Kyran Dale-Data Visualization with Python and JavaScript_ Scrape, Clean, Explore
    edition =   {1},
    volume =    {},
    url =       {http://gen.lib.rus.ec/book/index.php?md5=6589e6418efe8d2255d6dd6b4b375119 }
+}
+
+Kyran Dale-Data Visualization with Python and JavaScript_ Scrape, Clean, Explore & Transform Your Data-O’Reilly Media (2016).epub 1edn 2nd pre-release
+
+@book{book:1486349,
+   title =     {Data Visualization with Python and JavaScript: Scrape, Clean, Explore & Transform Your Data},
+   author =    {Kyran Dale},
+   publisher = {O’Reilly Media},
+   isbn =      {1491920513,9781491920510},
+   year =      {2016},
+   series =    {},
+   edition =   {1},
+   volume =    {},
+   url =       {http://gen.lib.rus.ec/book/index.php?md5=a7c416a6470d39af5495ef0f3e61837f }
+}
+
+Kyran Dale-Data Visualization with Python and JavaScript_ Scrape, Clean, Explore & Transform Your Data-O’Reilly Media (2016).mobi 1edn 2nd pre-release
+
+@book{book:1486351,
+   title =     {Data Visualization with Python and JavaScript: Scrape, Clean, Explore & Transform Your Data},
+   author =    {Kyran Dale},
+   publisher = {O’Reilly Media},
+   isbn =      {1491920513,9781491920510},
+   year =      {2016},
+   series =    {},
+   edition =   {1},
+   volume =    {},
+   url =       {http://gen.lib.rus.ec/book/index.php?md5=e404180acb9d7920d09cc2da6b5b21f7 }
 }
 
 Harry J. W. Percival-Test-Driven Development with Python_ Obey the Testing Goat_ Using Django, Selenium, and JavaScript-O’Reilly Media (2017).pdf
