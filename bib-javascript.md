@@ -1,5 +1,25 @@
 # Javascript
 
+## W3 Schools Tutorials
+
+https://www.w3schools.com/python/python_intro.asp
+
+https://www.w3schools.com/html/default.asp
+
+https://www.w3schools.com/css/default.asp
+
+https://www.w3schools.com/js/default.asp
+
+## Other Tutorials
+
+https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript
+
+https://www.infoworld.com/article/3251506/it-careers/employers-want-javascript-but-developers-want-python.html
+
+https://stackoverflow.com/questions/683462/best-way-to-integrate-python-and-javascript
+
+https://www.educba.com/python-vs-javascript/
+
 ## Ninja
 
 John Resig, Bear Bibeault, Josip Maras-Secrets of the JavaScript Ninja-Manning Publications (2016).pdf
