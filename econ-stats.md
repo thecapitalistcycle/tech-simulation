@@ -18,6 +18,8 @@ https://stats.oecd.org/glossary/index.htm
 
 ## Statistical Data and Metadata Exchange - SDMX
 
+https://sdmx.org/?page_id=5008
+
 Use for both input to and output from simulation models and games.
 
 Note:
@@ -27,3 +29,7 @@ Note:
 2. JupyterLab with Bokeh then later just static pages.
 
 3. Python quant tools.
+
+### Validation and Transformation Language
+
+VTL 2.0 included in SDMX has user oriented information model and language.
