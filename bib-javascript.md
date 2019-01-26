@@ -24,6 +24,23 @@ https://stackoverflow.com/questions/683462/best-way-to-integrate-python-and-java
 
 https://www.educba.com/python-vs-javascript/
 
+## Start
+
+Douglas Crockford-JavaScript_ The Good Parts-O'Reilly Media (2008).pdf
+
+@book{book:1340268,
+   title =     {JavaScript: The Good Parts},
+   author =    {Douglas Crockford},
+   publisher = {O'Reilly Media},
+   isbn =      {978-0-596-51774-8,0596517742},
+   year =      {2008},
+   series =    {},
+   edition =   {1st},
+   volume =    {},
+   url =       {http://gen.lib.rus.ec/book/index.php?md5=045bc0da63a283e10d81b8ab68d5129a }
+}
+
+
 ## Ninja
 
 John Resig, Bear Bibeault, Josip Maras-Secrets of the JavaScript Ninja-Manning Publications (2016).pdf
