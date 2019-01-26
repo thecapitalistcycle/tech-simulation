@@ -24,6 +24,11 @@ https://stackoverflow.com/questions/683462/best-way-to-integrate-python-and-java
 
 https://www.educba.com/python-vs-javascript/
 
+## Cheatsheets
+
+https://github.com/kickstartcoding/cheatsheets
+
+
 ## Start
 
 Douglas Crockford-JavaScript_ The Good Parts-O'Reilly Media (2008).pdf
