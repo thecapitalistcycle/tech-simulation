@@ -72,3 +72,24 @@ Oddly I haven't noticed a python module for VTL although it should be easier to 
 
 https://www.google.com/search?q=validation+and+transformation+language+tools
 
+### SDMX tutorials
+
+An excellent introduction to SDMX is in the tutorial pdfs from Eurostat:
+
+https://ec.europa.eu/eurostat/web/sdmx-infospace/trainings-tutorials/tutorials
+
+I have not looked at the accompanying videos 
+
+Any statistics in simulation models and MMORPGs should be based on, and refer to the standardized international concepts clearly explained above.
+
+Also note that the underlying Information Model is a more general and abstract version of the Common Warehouse Model, CWM from OMG which is in turn the basis for proprietary OLAP software like MS BI.
+
+Also the acyclic VTL transformation model roughly corresponds to acyclic spreadsheet updates which reflect the inherently temporal nature of realistic simulation models.
+
+### VTL implementation
+
+I noticed some VTL implementations rely on MS Transact-SQL, T-SQL. The corresponding ISO standard is PL/PSM and the usual FOSS software is PL/pgSQL. Note that postgres also has a PL/python.
+
+I still wonder whether it might be better to go via pandasdmx/odo
+
+
