@@ -56,7 +56,9 @@ pandasdmx can convert to and from pretty well everything (spreadsheets, database
 
 https://odo.readthedocs.io/en/latest/
 
-Note that this includes sparksql used by Wikidata for stats published in wikipedia.
+Note that this includes sparksql. But no relation to SPARQL used by Wikidata for RDF triples in wikipedia:
+
+https://en.m.wikipedia.org/wiki/SPARQL
 
 Java/.NET based Web service provider infrastructure:
 
