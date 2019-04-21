@@ -17,6 +17,16 @@ https://github.com/pbreach/venpy
 
 https://github.com/pbreach/venpy/blob/master/docs/Basic%20Usage.ipynb
 
+## sdeverywhere
+
+https://sdeverywhere.org/
+
+Transpiles Vensim to C and Web Assembly (machine code speeds in browser javascript) to run SD models anywhere including sdcloud:
+
+https://github.com/ToddFincannon/SDEverywhere
+
+https://sdcloud.io/
+
 ## XMILE and SMILE
 
 http://docs.oasis-open.org/xmile/xmile/v1.0/cs01/xmile-v1.0-cs01.html
